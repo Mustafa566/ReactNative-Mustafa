@@ -15,4 +15,5 @@ npx create-expo-app -e with-router
 
 
 
-Youtube tutorial: https://www.youtube.com/watch?v=mJ3bGvy0WAY - 31:08
+Youtube tutorial: https://www.youtube.com/watch?v=mJ3bGvy0WAY - 56:40
+https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch
